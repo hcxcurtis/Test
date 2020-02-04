@@ -1,2 +1,3 @@
 # Test
-To test how to use github
+To test how to use github.
+Hello!
